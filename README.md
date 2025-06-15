@@ -30,7 +30,7 @@ Each file contains:
 
 To master Java syntax and concepts for technical rounds and online assessments.
 
-Solved between: **June 10–June 14**
+Solved between: **June 10–June 15**
 
 ---
 
